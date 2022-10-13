@@ -1,13 +1,13 @@
 # About The File
-The Excel file contains different that have been locked so as to avoid unintentional edit.
+The Excel file contains cells that have been locked so as to avoid unintentional edit.
 
-To unprotect the sheets, kindly contact the modeler via LinkedIn and WhatsApp link given on the title page.
+To unprotect the sheets, kindly contact the modeler via LinkedIn and WhatsApp link given on the title page of the model.
 
 
 ## The sheets
 The Sheets contained in the file are:
 
-1. Title Page: This contain Title of the document and details about the model and the modeler.
+1. Title Page: This contains the title of the document and details about the model and the modeler.
 2. Summary page: This contains short summary of key ratios on the 3 scenarios used.
 3. Input page: This is the page to input value. The model is dynamic and any change here will flow through the model.
 4. Scenarios page: This page contains the different scenarios and there Rent and Cost Inflation. The Scenarios switch can also be found here.
